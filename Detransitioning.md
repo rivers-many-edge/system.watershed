@@ -2,7 +2,7 @@
 layout: page
 title: detransitioning
 permalink: /https://rivers-many-edge.github.io/art-home/Detransitioning
-date: "2023-10-229 17:05 EST"
+date: "2023-10-29"
 Author: "Rivers"
 ---
 
