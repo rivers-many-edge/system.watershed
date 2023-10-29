@@ -11,4 +11,4 @@ This repository is not *fully* set up, yet. Be patient with me while I work on i
 THANKS! :)
 [Jump to Detransitioning](https://rivers-many-edge.github.io/art-home/Detransitioning)
 
-![Blue and yellow cat-dragon creature in the woods. It's facing right, but looking left. It has human hands for feet.](Art General/Photography/Alaskan Scene.png)
+![Nature scenery from my trip to Alaska. It's summertime and the snow is melting off the mountains and draining into the mineral-rich lakes and rivers. The water there is a crystal blue with an ethereal aura. The area is densely packed with different types of wildlife; so much so that bears and other predators are a constant risk. My father was chased down by a moose ad got away, anecdotally. In this image specifically, the lake landscape expands out into a muddy marsh with yellow tall grasses.](/Art General/Photography/Alaskan Scene.png)
