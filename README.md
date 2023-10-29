@@ -7,6 +7,6 @@ This repository is not set up.
 
 THANKS! :)
 
-! [Blue and yellow cat-dragon creature in the woods. It's facing right, but looking left. It has human hands for feet.](hhttps://github.com/rivers-many-edge/art-home/blob/main/Creativity%20Creature.PNG?raw=true)
+![Blue and yellow cat-dragon creature in the woods. It's facing right, but looking left. It has human hands for feet.]()
 
 [Jump to Detransitioning](https://rivers-many-edge/art-home/detransitioning)
