@@ -45,3 +45,6 @@ jobs:
 # something i think related to basic tools and posting ? remove later if not for posting and only single install
               - name: Deploy GitHub Pages site
                 uses: actions/deploy-pages@v2.0.4
+
+              - name: GitHub Script
+                uses: actions/github-script@v6.4.1
