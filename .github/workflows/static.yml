@@ -41,3 +41,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+
+# something i think related to basic tools and posting ? remove later if not for posting and only single install
+              - name: Deploy GitHub Pages site
+                uses: actions/deploy-pages@v2.0.4
